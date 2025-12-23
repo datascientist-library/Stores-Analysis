@@ -109,8 +109,8 @@ An interactive **Power BI dashboard** was created to visualize:
 ---
 
 ## 👤 Author
-**Zach**  
-Mechanical Engineer turned Data Analyst  
-Aspiring Data Scientist | SQL | Power BI | Python  
+
+**Mihir Patil**  
+Data Science Capstone Project
 
 ---
