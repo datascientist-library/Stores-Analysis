@@ -2,9 +2,9 @@
 
 ---
 
-# 🏪 Stores Analysis – Capstone Project
+# Stores Analysis – Capstone Project
 
-## 📌 Project Overview
+## Project Overview
 A newly opened **toy store chain** is performing reasonably well and wants to **analyze its sales, store performance, product demand, and inventory health** to improve overall business performance.
 
 This capstone project focuses on analyzing historical data using **SQL** and visualizing insights through an **interactive Power BI dashboard** to support data-driven decision-making.
@@ -12,7 +12,7 @@ This capstone project focuses on analyzing historical data using **SQL** and vis
 ![Dashboard Preview](dashboard.png) 
 ---
 
-## 📊 Business Objective
+## Business Objective
 The store management aims to:
 - Understand **sales trends** across time, stores, and locations
 - Identify **top-performing and underperforming stores**
@@ -21,7 +21,7 @@ The store management aims to:
 
 ---
 
-## 🗂️ Datasets Used
+## Datasets Used
 The analysis is based on **four main datasets**:
 
 1. **Sales** – Transaction-level sales data  
@@ -31,16 +31,16 @@ The analysis is based on **four main datasets**:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - **SQL** – Data cleaning, joins, aggregations, and analysis  
 - **Power BI** – Interactive dashboard creation and visualization  
 - **Excel / CSV** – Source data format  
 
 ---
 
-## 🔍 Key Analysis Performed
+## Key Analysis Performed
 
-### 1️⃣ Sales Trend Analysis
+### Sales Trend Analysis
 - Analyzed **monthly sales trends** across all stores  
 - Compared performance for **both years (2022 & 2023)**  
 - Evaluated sales behavior across different **store locations**
@@ -51,7 +51,7 @@ The analysis is based on **four main datasets**:
 
 ---
 
-### 2️⃣ Store Performance Analysis
+### Store Performance Analysis
 - Identified **top 5 and bottom 5 performing stores** using a single SQL query  
 - Analyzed **sales distribution by store location**
 - Evaluated whether **store location impacts sales performance**
@@ -62,7 +62,7 @@ The analysis is based on **four main datasets**:
 
 ---
 
-### 3️⃣ Product Performance Analysis
+### Product Performance Analysis
 - Studied the **relationship between products and stores**
 - Identified **high-demand product categories**
 - Determined whether any category **outshines the rest**
@@ -73,7 +73,7 @@ The analysis is based on **four main datasets**:
 
 ---
 
-### 4️⃣ Inventory Health Analysis
+### Inventory Health Analysis
 - Calculated **average inventory levels** by store and product  
 - Identified potential **overstocking and understocking issues**
 
@@ -83,7 +83,7 @@ The analysis is based on **four main datasets**:
 
 ---
 
-## 📈 Power BI Dashboard
+## Power BI Dashboard
 An interactive **Power BI dashboard** was created to visualize:
 - Total Sales, Profit, Units Sold, and Inventory  
 - Sales trends by year and month  
@@ -92,7 +92,7 @@ An interactive **Power BI dashboard** was created to visualize:
 
 ---
 
-## 📌 Key Outcomes
+## Key Outcomes
 - Enabled management to identify **high-performing stores and products**
 - Highlighted **location-based sales impact**
 - Provided insights for **inventory optimization**
@@ -100,7 +100,7 @@ An interactive **Power BI dashboard** was created to visualize:
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 - Forecast sales using **time-series models**
 - Implement **inventory optimization logic**
 - Add customer-level analysis (if data becomes available)
@@ -108,7 +108,7 @@ An interactive **Power BI dashboard** was created to visualize:
 
 ---
 
-## 👤 Author
+## Author
 
 **Mihir Patil**  
 Data Science Capstone Project
