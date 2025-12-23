@@ -1,8 +1,6 @@
-#  Stores Analysis Analysis Using SQL and Power BI
+#  Stores Analysis Using SQL and Power BI
 
 ---
-
-# Stores Analysis – Capstone Project
 
 ## Project Overview
 A newly opened **toy store chain** is performing reasonably well and wants to **analyze its sales, store performance, product demand, and inventory health** to improve overall business performance.
